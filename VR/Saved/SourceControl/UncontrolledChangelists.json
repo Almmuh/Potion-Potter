@@ -5,7 +5,36 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Muhan/Documents/GitHub/TheBestTeam/VR/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/Muhan/Documents/GitHub/TheBestTeam/VR/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Muhan/Documents/GitHub/TheBestTeam/VR/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/Muhan/Documents/GitHub/TheBestTeam/VR/Content/Game/BP/Grabbable_SmallCube.uasset",
+				"C:/Users/Muhan/Documents/GitHub/TheBestTeam/VR/Content/Game/BP/BP_Potion.uasset",
+				"C:/Users/Muhan/Documents/GitHub/TheBestTeam/VR/Content/Game/BP/BP_Ingredient1.uasset",
+				"C:/Users/Muhan/Documents/GitHub/TheBestTeam/VR/Content/Game/BP/BP_Cauldron1.uasset",
+				"C:/Program Files/Epicgames2/UE_5.4/Engine/Content/VREditor/LaserPointer/LaserPointerMaterial_Inst.uasset",
+				"C:/Program Files/Epicgames2/UE_5.4/Engine/Content/VREditor/LaserPointer/LaserPointerMaterialInst.uasset",
+				"C:/Program Files/Epicgames2/UE_5.4/Engine/Content/VREditor/LaserPointer/M_3.uasset",
+				"C:/Program Files/Epicgames2/UE_5.4/Engine/Content/VREditor/LaserPointer/LaserPointerMaterial.uasset",
+				"C:/Users/Muhan/Documents/GitHub/TheBestTeam/VR/Content/Game/M_3.uasset",
+				"C:/Users/Muhan/Documents/GitHub/TheBestTeam/VR/Content/Game/Materials/M_3.uasset",
+				"C:/Users/Muhan/Documents/GitHub/TheBestTeam/VR/Content/Game/Materials/M_4.uasset",
+				"C:/Users/Muhan/Documents/GitHub/TheBestTeam/VR/Content/Game/Materials/3/M_5.uasset",
+				"C:/Users/Muhan/Documents/GitHub/TheBestTeam/VR/Content/Game/Materials/3/M_4.uasset",
+				"C:/Users/Muhan/Documents/GitHub/TheBestTeam/VR/Content/Game/Materials/3/M_3.uasset",
+				"C:/Users/Muhan/Documents/GitHub/TheBestTeam/VR/Content/Game/Materials/2/M_5.uasset",
+				"C:/Users/Muhan/Documents/GitHub/TheBestTeam/VR/Content/Game/Materials/2/M_6.uasset",
+				"C:/Users/Muhan/Documents/GitHub/TheBestTeam/VR/Content/Game/Materials/2/M_7.uasset",
+				"C:/Users/Muhan/Documents/GitHub/TheBestTeam/VR/Content/Game/Materials/2/M_8.uasset",
+				"C:/Users/Muhan/Documents/GitHub/TheBestTeam/VR/Content/Game/Materials/2/M_9.uasset",
+				"C:/Users/Muhan/Documents/GitHub/TheBestTeam/VR/Content/Game/Ingredients/BP_Cauldron1.uasset",
+				"C:/Users/Muhan/Documents/GitHub/TheBestTeam/VR/Content/Game/BP/Ingredients/BP_Cauldron1.uasset",
+				"C:/Users/Muhan/Documents/GitHub/TheBestTeam/VR/Content/Game/BP/BP_Blend.uasset",
+				"C:/Users/Muhan/Documents/GitHub/TheBestTeam/VR/Content/Game/BP/Ingredients/BP_Ingredient.uasset",
+				"C:/Users/Muhan/Documents/GitHub/TheBestTeam/VR/Content/Game/BP/Ingredients/BP_Ingredient1.uasset",
+				"C:/Users/Muhan/Documents/GitHub/TheBestTeam/VR/Content/Game/BP/Ingredients/BP_Ingredient2.uasset",
+				"C:/Users/Muhan/Documents/GitHub/TheBestTeam/VR/Content/Game/Materials/3/M_6.uasset",
+				"C:/Users/Muhan/Documents/GitHub/TheBestTeam/VR/Content/Level.umap",
+				"C:/Users/Muhan/Documents/GitHub/TheBestTeam/VR/Content/VRTemplateMap.umap"
 			]
 		}
 	]
