@@ -1018,3 +1018,704 @@ The following settings have been applied:
 [2024.10.25-13.52.39:587][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000007 seconds (updated 0 objects)
 [2024.10.25-13.52.39:600][  1]LogD3D12RHI: Cannot end block when stack is empty
 [2024.10.25-13.52.40:351][  8]LogSourceControl: Uncontrolled asset enumeration finished in 0.779915 seconds (Found 7405 uncontrolled assets)
+[2024.10.25-13.53.12:495][726]Cmd: EDIT COPY
+[2024.10.25-13.53.12:755][755]Cmd: EDIT PASTE
+[2024.10.25-13.53.12:810][755]LogClass: Warning: Short type name "BP_Bottle2_C_1" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffab9d47498 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffaba016d1d UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffaba018f65 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffab9fade07 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffab9d0c3b2 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffaba01c1f4 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffab9fade07 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffab10f08a7 UnrealEditor-UnrealEd.dll!UnknownFunction []
+0x00007ffab10ede3f UnrealEditor-UnrealEd.dll!UnknownFunction []
+
+[2024.10.25-13.53.12:844][755]LogClass: Warning: Short type name "BP_Bottle2_C_1" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffab9d47498 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffaba016d1d UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffaba018f65 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffab9fade07 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffab9d0c3b2 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffaba01c1f4 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffab9fade07 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffab10f08a7 UnrealEditor-UnrealEd.dll!UnknownFunction []
+0x00007ffab10ede3f UnrealEditor-UnrealEd.dll!UnknownFunction []
+
+[2024.10.25-13.53.27:137][336]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Game/BP/BP_Bottle2.BP_Bottle2
+[2024.10.25-13.53.27:137][336]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_0'.
+[2024.10.25-13.53.28:459][336]LogSlate: Took 0.000805 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.10.25-13.53.28:567][336]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2024.10.25-13.53.35:410][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.10.25-13.53.39:818][535]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_1'.
+[2024.10.25-13.53.39:889][536]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_2'.
+[2024.10.25-13.53.44:423][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.10.25-13.53.46:306][220]Cmd: DELETE
+[2024.10.25-13.53.46:306][220]Cmd: ACTOR DELETE
+[2024.10.25-13.53.46:310][220]LogEditorActor: Deleted Actor: BP_Bottle2_C
+[2024.10.25-13.53.46:327][220]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.10.25-13.53.46:329][220]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2024.10.25-13.53.47:127][306]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.25-13.53.47:139][306]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.25-13.53.47:144][306]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.10.25-13.53.47:144][306]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2024.10.25-13.53.47:144][306]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TowerTest
+[2024.10.25-13.53.47:151][306]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007828s)
+[2024.10.25-13.53.47:151][306]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TowerTest.TowerTest to /Game/Levels/UEDPIE_0_TowerTest.TowerTest (0.007895s)
+[2024.10.25-13.53.47:172][306]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.10.25-13.53.47:173][306]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.10.25-13.53.47:173][306]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Levels/UEDPIE_0_TowerTest.TowerTest'.
+[2024.10.25-13.53.47:174][306]LogPlayLevel: PIE: World Init took: (0.001080s)
+[2024.10.25-13.53.47:175][306]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.10.25-13.53.47:175][306]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.25-13.53.47:175][306]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.25-13.53.47:175][306]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.25-13.53.47:175][306]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.25-13.53.47:175][306]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.25-13.53.47:175][306]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.25-13.53.47:175][306]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.25-13.53.47:175][306]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.25-13.53.47:175][306]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.25-13.53.47:175][306]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.25-13.53.47:175][306]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.25-13.53.47:177][306]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.25-13.53.47:200][306]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2024.10.25-13.53.47:200][306]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.25-13.53.47:201][306]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.25-13.53.47:201][306]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.25-13.53.47:201][306]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.10.25-13.53.47:201][306]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.10.25-13.53.47:203][306]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.10.25-13.53.47:203][306]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=424
+[2024.10.25-13.53.47:203][306]LogInit: FAudioDevice initialized with ID 2.
+[2024.10.25-13.53.47:203][306]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=2
+[2024.10.25-13.53.47:203][306]LogAudio: Display: Audio Device (ID: 2) registered with world 'TowerTest'.
+[2024.10.25-13.53.47:203][306]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.10.25-13.53.47:206][306]LogLoad: Game class is 'GameMode'
+[2024.10.25-13.53.47:209][306]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TowerTest.TowerTest up for play (max tick rate 0) at 2024.10.25-14.53.47
+[2024.10.25-13.53.47:210][306]LogWorld: Bringing up level for play took: 0.003000
+[2024.10.25-13.53.47:212][306]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2024.10.25-13.53.47:214][306]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.25-13.53.47:214][306]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.25-13.53.47:214][306]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.10.25-13.53.47:216][306]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.10.25-13.53.47:218][306]PIE: Server logged in
+[2024.10.25-13.53.47:219][306]PIE: Play in editor total start time 0.08 seconds.
+[2024.10.25-13.53.51:553][820]LogBlueprintUserMessages: [BP_TestWBPspawner_C_1] board
+[2024.10.25-13.53.51:554][820]LogBlueprintUserMessages: [BP_TestWBPspawner_C_1] 1
+[2024.10.25-13.53.54:138][130]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2024.10.25-13.53.54:138][130]LogGameState: Match State Changed from InProgress to LeavingMap
+[2024.10.25-13.53.54:138][130]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Levels/TowerTest"
+[2024.10.25-13.53.54:138][130]LogNet: Browse: /Game/Levels/TowerTest
+[2024.10.25-13.53.54:138][130]LogLoad: LoadMap: /Game/Levels/TowerTest
+[2024.10.25-13.53.54:138][130]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TowerTest
+[2024.10.25-13.53.54:139][130]LogWorld: UWorld::CleanupWorld for TowerTest, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-13.53.54:139][130]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-13.53.54:140][130]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.10.25-13.53.54:140][130]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.10.25-13.53.54:194][130]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.25-13.53.54:197][130]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.10.25-13.53.54:198][130]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TowerTest
+[2024.10.25-13.53.54:205][130]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005869s)
+[2024.10.25-13.53.54:205][130]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TowerTest.TowerTest to /Game/Levels/UEDPIE_0_TowerTest.TowerTest (0.007202s)
+[2024.10.25-13.53.54:205][130]LogAudio: Display: Audio Device (ID: 2) registered with world 'TowerTest'.
+[2024.10.25-13.53.54:205][130]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.10.25-13.53.54:206][130]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Levels/UEDPIE_0_TowerTest.TowerTest'.
+[2024.10.25-13.53.54:206][130]LogPlayLevel: PIE: World Init took: (0.000922s)
+[2024.10.25-13.53.54:206][130]LogLoad: Game class is 'GameMode'
+[2024.10.25-13.53.54:208][130]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TowerTest.TowerTest up for play (max tick rate 0) at 2024.10.25-14.53.54
+[2024.10.25-13.53.54:209][130]LogWorld: Bringing up level for play took: 0.002295
+[2024.10.25-13.53.54:209][130]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.25-13.53.54:209][130]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.25-13.53.54:209][130]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.10.25-13.53.54:211][130]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.10.25-13.53.54:211][130]LogLoad: Took 0.072609 seconds to LoadMap(/Game/Levels/UEDPIE_0_TowerTest)
+[2024.10.25-13.53.54:211][130]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Levels/UEDPIE_0_TowerTest
+[2024.10.25-13.53.56:633][415]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.25-13.53.56:634][415]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TowerTest
+[2024.10.25-13.53.56:634][415]LogWorld: UWorld::CleanupWorld for TowerTest, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-13.53.56:634][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-13.53.56:635][415]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.10.25-13.53.56:635][415]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.10.25-13.53.56:643][415]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.25-13.53.56:649][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-13.53.56:668][415]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.25-13.53.56:669][415]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.10.25-13.53.56:669][415]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.10.25-13.53.56:671][415]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.10.25-13.53.56:675][415]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.10.25-13.53.56:724][416]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2024.10.25-13.54.11:054][ 26]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.25-13.54.11:065][ 26]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.25-13.54.11:099][ 26]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TowerTest
+[2024.10.25-13.54.11:105][ 26]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006530s)
+[2024.10.25-13.54.11:105][ 26]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TowerTest.TowerTest to /Game/Levels/UEDPIE_0_TowerTest.TowerTest (0.006585s)
+[2024.10.25-13.54.11:127][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.10.25-13.54.11:128][ 26]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.10.25-13.54.11:128][ 26]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Levels/UEDPIE_0_TowerTest.TowerTest'.
+[2024.10.25-13.54.11:129][ 26]LogPlayLevel: PIE: World Init took: (0.001029s)
+[2024.10.25-13.54.11:129][ 26]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.10.25-13.54.11:130][ 26]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.25-13.54.11:130][ 26]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.25-13.54.11:130][ 26]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.25-13.54.11:130][ 26]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.25-13.54.11:130][ 26]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.25-13.54.11:130][ 26]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.25-13.54.11:130][ 26]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.25-13.54.11:130][ 26]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.25-13.54.11:130][ 26]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.25-13.54.11:130][ 26]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.25-13.54.11:130][ 26]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.25-13.54.11:132][ 26]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.25-13.54.11:154][ 26]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2024.10.25-13.54.11:154][ 26]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.25-13.54.11:154][ 26]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.25-13.54.11:154][ 26]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.25-13.54.11:154][ 26]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.10.25-13.54.11:154][ 26]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.10.25-13.54.11:156][ 26]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.10.25-13.54.11:156][ 26]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=440
+[2024.10.25-13.54.11:156][ 26]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=3
+[2024.10.25-13.54.11:156][ 26]LogInit: FAudioDevice initialized with ID 3.
+[2024.10.25-13.54.11:156][ 26]LogAudio: Display: Audio Device (ID: 3) registered with world 'TowerTest'.
+[2024.10.25-13.54.11:156][ 26]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.10.25-13.54.11:159][ 26]LogLoad: Game class is 'GameMode'
+[2024.10.25-13.54.11:162][ 26]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TowerTest.TowerTest up for play (max tick rate 0) at 2024.10.25-14.54.11
+[2024.10.25-13.54.11:162][ 26]LogWorld: Bringing up level for play took: 0.002801
+[2024.10.25-13.54.11:165][ 26]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2024.10.25-13.54.11:165][ 26]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.25-13.54.11:165][ 26]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.25-13.54.11:165][ 26]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.10.25-13.54.11:168][ 26]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.10.25-13.54.11:169][ 26]PIE: Server logged in
+[2024.10.25-13.54.11:169][ 26]PIE: Play in editor total start time 0.104 seconds.
+[2024.10.25-13.54.14:271][391]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.25-13.54.14:271][391]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TowerTest
+[2024.10.25-13.54.14:272][391]LogWorld: UWorld::CleanupWorld for TowerTest, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-13.54.14:272][391]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-13.54.14:272][391]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.10.25-13.54.14:272][391]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.10.25-13.54.14:277][391]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.25-13.54.14:282][391]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-13.54.14:302][391]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.25-13.54.14:302][391]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.10.25-13.54.14:302][391]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.10.25-13.54.14:304][391]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.10.25-13.54.14:309][391]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2024.10.25-13.54.14:388][392]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2024.10.25-13.54.16:885][677]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.10.25-13.54.20:877][ 93]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.25-13.54.20:888][ 93]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.25-13.54.20:911][ 93]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TowerTest
+[2024.10.25-13.54.20:917][ 93]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006124s)
+[2024.10.25-13.54.20:917][ 93]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TowerTest.TowerTest to /Game/Levels/UEDPIE_0_TowerTest.TowerTest (0.006179s)
+[2024.10.25-13.54.20:939][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.10.25-13.54.20:940][ 93]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.10.25-13.54.20:940][ 93]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Levels/UEDPIE_0_TowerTest.TowerTest'.
+[2024.10.25-13.54.20:941][ 93]LogPlayLevel: PIE: World Init took: (0.001024s)
+[2024.10.25-13.54.20:942][ 93]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.10.25-13.54.20:942][ 93]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.25-13.54.20:942][ 93]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.25-13.54.20:942][ 93]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.25-13.54.20:942][ 93]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.25-13.54.20:942][ 93]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.25-13.54.20:942][ 93]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.25-13.54.20:942][ 93]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.25-13.54.20:942][ 93]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.25-13.54.20:942][ 93]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.25-13.54.20:942][ 93]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.25-13.54.20:942][ 93]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.25-13.54.20:944][ 93]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.25-13.54.20:967][ 93]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2024.10.25-13.54.20:967][ 93]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.25-13.54.20:967][ 93]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.25-13.54.20:967][ 93]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.25-13.54.20:967][ 93]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.10.25-13.54.20:967][ 93]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.10.25-13.54.20:969][ 93]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.10.25-13.54.20:969][ 93]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13684
+[2024.10.25-13.54.20:969][ 93]LogInit: FAudioDevice initialized with ID 4.
+[2024.10.25-13.54.20:969][ 93]LogAudio: Display: Audio Device (ID: 4) registered with world 'TowerTest'.
+[2024.10.25-13.54.20:969][ 93]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.10.25-13.54.20:972][ 93]LogLoad: Game class is 'GameMode'
+[2024.10.25-13.54.20:975][ 93]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TowerTest.TowerTest up for play (max tick rate 0) at 2024.10.25-14.54.20
+[2024.10.25-13.54.20:975][ 93]LogWorld: Bringing up level for play took: 0.002891
+[2024.10.25-13.54.20:978][ 93]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2024.10.25-13.54.20:978][ 93]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.25-13.54.20:978][ 93]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.25-13.54.20:978][ 93]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.10.25-13.54.20:980][ 93]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.10.25-13.54.20:981][ 93]PIE: Server logged in
+[2024.10.25-13.54.20:982][ 93]PIE: Play in editor total start time 0.094 seconds.
+[2024.10.25-13.54.22:931][320]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.25-13.54.22:931][320]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TowerTest
+[2024.10.25-13.54.22:932][320]LogWorld: UWorld::CleanupWorld for TowerTest, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-13.54.22:932][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-13.54.22:932][320]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.10.25-13.54.22:932][320]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.10.25-13.54.22:937][320]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.25-13.54.22:943][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-13.54.22:961][320]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.25-13.54.22:961][320]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.10.25-13.54.22:961][320]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.10.25-13.54.22:963][320]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.10.25-13.54.22:964][320]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.25-13.54.22:968][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2024.10.25-13.54.23:047][321]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2024.10.25-13.54.26:173][655]LogDerivedDataCache: C:/Users/21391218/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.10.25-13.54.29:929][ 53]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.25-13.54.29:940][ 53]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.25-13.54.29:940][ 53]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TowerTest
+[2024.10.25-13.54.29:946][ 53]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006172s)
+[2024.10.25-13.54.29:946][ 53]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TowerTest.TowerTest to /Game/Levels/UEDPIE_0_TowerTest.TowerTest (0.006216s)
+[2024.10.25-13.54.29:966][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.10.25-13.54.29:968][ 53]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.10.25-13.54.29:968][ 53]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Levels/UEDPIE_0_TowerTest.TowerTest'.
+[2024.10.25-13.54.29:968][ 53]LogPlayLevel: PIE: World Init took: (0.001000s)
+[2024.10.25-13.54.29:969][ 53]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.10.25-13.54.29:969][ 53]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.25-13.54.29:969][ 53]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.25-13.54.29:969][ 53]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.25-13.54.29:969][ 53]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.25-13.54.29:969][ 53]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.25-13.54.29:969][ 53]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.25-13.54.29:969][ 53]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.25-13.54.29:969][ 53]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.25-13.54.29:970][ 53]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.25-13.54.29:970][ 53]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.25-13.54.29:970][ 53]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.25-13.54.29:971][ 53]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.25-13.54.29:994][ 53]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2024.10.25-13.54.29:994][ 53]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.25-13.54.29:994][ 53]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.25-13.54.29:994][ 53]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.25-13.54.29:994][ 53]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.10.25-13.54.29:994][ 53]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.10.25-13.54.29:996][ 53]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.10.25-13.54.29:996][ 53]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=20976
+[2024.10.25-13.54.29:996][ 53]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=5
+[2024.10.25-13.54.29:996][ 53]LogInit: FAudioDevice initialized with ID 5.
+[2024.10.25-13.54.29:996][ 53]LogAudio: Display: Audio Device (ID: 5) registered with world 'TowerTest'.
+[2024.10.25-13.54.29:996][ 53]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.10.25-13.54.29:999][ 53]LogLoad: Game class is 'GameMode'
+[2024.10.25-13.54.30:002][ 53]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TowerTest.TowerTest up for play (max tick rate 0) at 2024.10.25-14.54.30
+[2024.10.25-13.54.30:002][ 53]LogWorld: Bringing up level for play took: 0.002805
+[2024.10.25-13.54.30:005][ 53]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2024.10.25-13.54.30:005][ 53]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.25-13.54.30:005][ 53]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.25-13.54.30:005][ 53]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.10.25-13.54.30:007][ 53]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.10.25-13.54.30:008][ 53]PIE: Server logged in
+[2024.10.25-13.54.30:009][ 53]PIE: Play in editor total start time 0.069 seconds.
+[2024.10.25-13.54.31:723][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.25-13.54.31:723][251]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TowerTest
+[2024.10.25-13.54.31:723][251]LogWorld: UWorld::CleanupWorld for TowerTest, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-13.54.31:725][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-13.54.31:725][251]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.10.25-13.54.31:725][251]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.10.25-13.54.31:729][251]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.25-13.54.31:734][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-13.54.31:748][251]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.25-13.54.31:748][251]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.10.25-13.54.31:748][251]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.10.25-13.54.31:750][251]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.10.25-13.54.31:752][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.25-13.54.31:754][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.10.25-13.54.31:827][252]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2024.10.25-13.54.35:482][639]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.25-13.54.35:494][639]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.25-13.54.35:525][639]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TowerTest
+[2024.10.25-13.54.35:531][639]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006243s)
+[2024.10.25-13.54.35:531][639]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TowerTest.TowerTest to /Game/Levels/UEDPIE_0_TowerTest.TowerTest (0.006294s)
+[2024.10.25-13.54.35:551][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.10.25-13.54.35:553][639]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.10.25-13.54.35:553][639]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Levels/UEDPIE_0_TowerTest.TowerTest'.
+[2024.10.25-13.54.35:554][639]LogPlayLevel: PIE: World Init took: (0.001041s)
+[2024.10.25-13.54.35:555][639]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.10.25-13.54.35:555][639]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.25-13.54.35:555][639]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.25-13.54.35:555][639]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.25-13.54.35:555][639]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.25-13.54.35:555][639]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.25-13.54.35:555][639]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.25-13.54.35:555][639]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.25-13.54.35:555][639]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.25-13.54.35:555][639]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.25-13.54.35:555][639]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.25-13.54.35:555][639]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.25-13.54.35:557][639]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.25-13.54.35:586][639]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2024.10.25-13.54.35:586][639]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.25-13.54.35:586][639]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.25-13.54.35:586][639]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.25-13.54.35:586][639]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.10.25-13.54.35:586][639]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.10.25-13.54.35:588][639]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.10.25-13.54.35:588][639]LogInit: FAudioDevice initialized with ID 6.
+[2024.10.25-13.54.35:588][639]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=11548
+[2024.10.25-13.54.35:588][639]LogAudio: Display: Audio Device (ID: 6) registered with world 'TowerTest'.
+[2024.10.25-13.54.35:588][639]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.10.25-13.54.35:592][639]LogLoad: Game class is 'GameMode'
+[2024.10.25-13.54.35:594][639]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TowerTest.TowerTest up for play (max tick rate 0) at 2024.10.25-14.54.35
+[2024.10.25-13.54.35:594][639]LogWorld: Bringing up level for play took: 0.003119
+[2024.10.25-13.54.35:597][639]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2024.10.25-13.54.35:598][639]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.25-13.54.35:598][639]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.25-13.54.35:598][639]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.10.25-13.54.35:600][639]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.10.25-13.54.35:601][639]PIE: Server logged in
+[2024.10.25-13.54.35:601][639]PIE: Play in editor total start time 0.108 seconds.
+[2024.10.25-13.54.39:905][153]LogBlueprintUserMessages: [BP_TestWBPspawner_C_1] board
+[2024.10.25-13.54.39:906][153]LogBlueprintUserMessages: [BP_TestWBPspawner_C_1] 1
+[2024.10.25-13.54.42:490][463]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2024.10.25-13.54.42:491][463]LogGameState: Match State Changed from InProgress to LeavingMap
+[2024.10.25-13.54.42:491][463]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Levels/TowerTest"
+[2024.10.25-13.54.42:491][463]LogNet: Browse: /Game/Levels/TowerTest
+[2024.10.25-13.54.42:491][463]LogLoad: LoadMap: /Game/Levels/TowerTest
+[2024.10.25-13.54.42:491][463]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TowerTest
+[2024.10.25-13.54.42:492][463]LogWorld: UWorld::CleanupWorld for TowerTest, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-13.54.42:492][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-13.54.42:492][463]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.10.25-13.54.42:492][463]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.10.25-13.54.42:538][463]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.25-13.54.42:541][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.10.25-13.54.42:542][463]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TowerTest
+[2024.10.25-13.54.42:548][463]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005863s)
+[2024.10.25-13.54.42:548][463]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TowerTest.TowerTest to /Game/Levels/UEDPIE_0_TowerTest.TowerTest (0.005914s)
+[2024.10.25-13.54.42:548][463]LogAudio: Display: Audio Device (ID: 6) registered with world 'TowerTest'.
+[2024.10.25-13.54.42:548][463]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.10.25-13.54.42:548][463]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Levels/UEDPIE_0_TowerTest.TowerTest'.
+[2024.10.25-13.54.42:549][463]LogPlayLevel: PIE: World Init took: (0.000929s)
+[2024.10.25-13.54.42:549][463]LogLoad: Game class is 'GameMode'
+[2024.10.25-13.54.42:551][463]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TowerTest.TowerTest up for play (max tick rate 0) at 2024.10.25-14.54.42
+[2024.10.25-13.54.42:551][463]LogWorld: Bringing up level for play took: 0.002299
+[2024.10.25-13.54.42:552][463]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.25-13.54.42:552][463]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.25-13.54.42:552][463]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.10.25-13.54.42:554][463]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.10.25-13.54.42:554][463]LogLoad: Took 0.062882 seconds to LoadMap(/Game/Levels/UEDPIE_0_TowerTest)
+[2024.10.25-13.54.42:554][463]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Levels/UEDPIE_0_TowerTest
+[2024.10.25-13.54.46:916][985]LogBlueprintUserMessages: [BP_TestWBPspawner_C_1] board
+[2024.10.25-13.54.46:917][985]LogBlueprintUserMessages: [BP_TestWBPspawner_C_1] 1
+[2024.10.25-13.54.49:501][295]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2024.10.25-13.54.49:501][295]LogGameState: Match State Changed from InProgress to LeavingMap
+[2024.10.25-13.54.49:501][295]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Levels/TowerTest"
+[2024.10.25-13.54.49:501][295]LogNet: Browse: /Game/Levels/TowerTest
+[2024.10.25-13.54.49:501][295]LogLoad: LoadMap: /Game/Levels/TowerTest
+[2024.10.25-13.54.49:501][295]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TowerTest
+[2024.10.25-13.54.49:502][295]LogWorld: UWorld::CleanupWorld for TowerTest, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-13.54.49:503][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-13.54.49:503][295]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.10.25-13.54.49:503][295]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.10.25-13.54.49:558][295]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.25-13.54.49:561][295]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.10.25-13.54.49:562][295]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TowerTest
+[2024.10.25-13.54.49:568][295]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005929s)
+[2024.10.25-13.54.49:568][295]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TowerTest.TowerTest to /Game/Levels/UEDPIE_0_TowerTest.TowerTest (0.005980s)
+[2024.10.25-13.54.49:568][295]LogAudio: Display: Audio Device (ID: 6) registered with world 'TowerTest'.
+[2024.10.25-13.54.49:568][295]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.10.25-13.54.49:569][295]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Levels/UEDPIE_0_TowerTest.TowerTest'.
+[2024.10.25-13.54.49:569][295]LogPlayLevel: PIE: World Init took: (0.000926s)
+[2024.10.25-13.54.49:569][295]LogLoad: Game class is 'GameMode'
+[2024.10.25-13.54.49:571][295]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TowerTest.TowerTest up for play (max tick rate 0) at 2024.10.25-14.54.49
+[2024.10.25-13.54.49:571][295]LogWorld: Bringing up level for play took: 0.002202
+[2024.10.25-13.54.49:572][295]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.25-13.54.49:572][295]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.25-13.54.49:572][295]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.10.25-13.54.49:574][295]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.10.25-13.54.49:574][295]LogLoad: Took 0.071796 seconds to LoadMap(/Game/Levels/UEDPIE_0_TowerTest)
+[2024.10.25-13.54.49:574][295]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Levels/UEDPIE_0_TowerTest
+[2024.10.25-13.54.50:586][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.25-13.54.50:586][410]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TowerTest
+[2024.10.25-13.54.50:586][410]LogWorld: UWorld::CleanupWorld for TowerTest, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-13.54.50:587][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-13.54.50:587][410]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.10.25-13.54.50:587][410]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.10.25-13.54.50:592][410]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.25-13.54.50:597][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-13.54.50:617][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.25-13.54.50:617][410]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.10.25-13.54.50:617][410]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.10.25-13.54.50:619][410]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.10.25-13.54.50:623][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.10.25-13.54.50:700][411]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2024.10.25-13.54.52:315][572]LogSlate: Took 0.000597 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.10.25-13.54.52:364][575]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_3'.
+[2024.10.25-13.54.52:430][579]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_4'.
+[2024.10.25-13.54.52:500][583]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_5'.
+[2024.10.25-13.54.52:544][584]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_6'.
+[2024.10.25-13.54.52:631][590]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_7'.
+[2024.10.25-13.54.52:749][598]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_8'.
+[2024.10.25-13.54.52:774][599]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_9'.
+[2024.10.25-13.54.52:802][600]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/TowerTest.TowerTest:PersistentLevel.TowerTest
+[2024.10.25-13.54.52:803][600]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_10'.
+[2024.10.25-13.54.55:695][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.10.25-13.54.57:057][942]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.25-13.54.57:069][942]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.25-13.54.57:093][942]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TowerTest
+[2024.10.25-13.54.57:099][942]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006030s)
+[2024.10.25-13.54.57:099][942]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TowerTest.TowerTest to /Game/Levels/UEDPIE_0_TowerTest.TowerTest (0.006084s)
+[2024.10.25-13.54.57:119][942]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.10.25-13.54.57:120][942]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.10.25-13.54.57:121][942]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Levels/UEDPIE_0_TowerTest.TowerTest'.
+[2024.10.25-13.54.57:121][942]LogPlayLevel: PIE: World Init took: (0.001073s)
+[2024.10.25-13.54.57:122][942]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.10.25-13.54.57:122][942]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.25-13.54.57:122][942]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.25-13.54.57:122][942]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.25-13.54.57:122][942]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.25-13.54.57:122][942]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.25-13.54.57:122][942]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.25-13.54.57:122][942]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.25-13.54.57:122][942]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.25-13.54.57:122][942]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.25-13.54.57:122][942]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.25-13.54.57:122][942]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.25-13.54.57:124][942]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.25-13.54.57:147][942]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2024.10.25-13.54.57:148][942]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.25-13.54.57:148][942]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.25-13.54.57:148][942]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.25-13.54.57:149][942]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.10.25-13.54.57:149][942]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.10.25-13.54.57:151][942]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.10.25-13.54.57:151][942]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=14148
+[2024.10.25-13.54.57:151][942]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=7
+[2024.10.25-13.54.57:151][942]LogInit: FAudioDevice initialized with ID 7.
+[2024.10.25-13.54.57:151][942]LogAudio: Display: Audio Device (ID: 7) registered with world 'TowerTest'.
+[2024.10.25-13.54.57:151][942]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.10.25-13.54.57:154][942]LogLoad: Game class is 'GameMode'
+[2024.10.25-13.54.57:157][942]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TowerTest.TowerTest up for play (max tick rate 0) at 2024.10.25-14.54.57
+[2024.10.25-13.54.57:157][942]LogWorld: Bringing up level for play took: 0.002790
+[2024.10.25-13.54.57:159][942]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2024.10.25-13.54.57:160][942]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.25-13.54.57:160][942]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.25-13.54.57:160][942]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.10.25-13.54.57:162][942]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.10.25-13.54.57:163][942]PIE: Server logged in
+[2024.10.25-13.54.57:164][942]PIE: Play in editor total start time 0.095 seconds.
+[2024.10.25-13.55.01:484][458]LogBlueprintUserMessages: [BP_TestWBPspawner_C_1] board
+[2024.10.25-13.55.01:484][458]LogBlueprintUserMessages: [BP_TestWBPspawner_C_1] 1
+[2024.10.25-13.55.06:027][998]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.25-13.55.06:027][998]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TowerTest
+[2024.10.25-13.55.06:027][998]LogWorld: UWorld::CleanupWorld for TowerTest, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-13.55.06:028][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-13.55.06:028][998]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.10.25-13.55.06:028][998]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.10.25-13.55.06:032][998]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.25-13.55.06:038][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-13.55.06:058][998]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.25-13.55.06:059][998]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.10.25-13.55.06:059][998]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.10.25-13.55.06:060][998]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.10.25-13.55.06:065][998]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.10.25-13.55.06:141][999]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2024.10.25-13.55.22:046][762]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.25-13.55.22:058][762]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.25-13.55.22:058][762]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TowerTest
+[2024.10.25-13.55.22:064][762]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006250s)
+[2024.10.25-13.55.22:064][762]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TowerTest.TowerTest to /Game/Levels/UEDPIE_0_TowerTest.TowerTest (0.006297s)
+[2024.10.25-13.55.22:082][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.10.25-13.55.22:083][762]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.10.25-13.55.22:083][762]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Levels/UEDPIE_0_TowerTest.TowerTest'.
+[2024.10.25-13.55.22:084][762]LogPlayLevel: PIE: World Init took: (0.001038s)
+[2024.10.25-13.55.22:085][762]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.10.25-13.55.22:085][762]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.25-13.55.22:085][762]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.25-13.55.22:085][762]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.25-13.55.22:085][762]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.25-13.55.22:085][762]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.25-13.55.22:085][762]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.25-13.55.22:085][762]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.25-13.55.22:085][762]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.25-13.55.22:085][762]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.25-13.55.22:085][762]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.25-13.55.22:085][762]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.25-13.55.22:087][762]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.25-13.55.22:110][762]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2024.10.25-13.55.22:110][762]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.25-13.55.22:110][762]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.25-13.55.22:110][762]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.25-13.55.22:112][762]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.10.25-13.55.22:112][762]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.10.25-13.55.22:114][762]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.10.25-13.55.22:114][762]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13360
+[2024.10.25-13.55.22:114][762]LogInit: FAudioDevice initialized with ID 8.
+[2024.10.25-13.55.22:114][762]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=8
+[2024.10.25-13.55.22:114][762]LogAudio: Display: Audio Device (ID: 8) registered with world 'TowerTest'.
+[2024.10.25-13.55.22:114][762]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.10.25-13.55.22:117][762]LogLoad: Game class is 'GameMode'
+[2024.10.25-13.55.22:120][762]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TowerTest.TowerTest up for play (max tick rate 0) at 2024.10.25-14.55.22
+[2024.10.25-13.55.22:120][762]LogWorld: Bringing up level for play took: 0.002767
+[2024.10.25-13.55.22:122][762]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2024.10.25-13.55.22:123][762]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.25-13.55.22:123][762]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.25-13.55.22:123][762]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.10.25-13.55.22:125][762]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.10.25-13.55.22:126][762]PIE: Server logged in
+[2024.10.25-13.55.22:127][762]PIE: Play in editor total start time 0.068 seconds.
+[2024.10.25-13.55.26:475][282]LogBlueprintUserMessages: [BP_TestWBPspawner_C_1] board
+[2024.10.25-13.55.26:476][282]LogBlueprintUserMessages: [BP_TestWBPspawner_C_1] 1
+[2024.10.25-13.55.30:135][718]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.25-13.55.30:135][718]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TowerTest
+[2024.10.25-13.55.30:136][718]LogWorld: UWorld::CleanupWorld for TowerTest, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-13.55.30:136][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-13.55.30:136][718]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.10.25-13.55.30:136][718]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.10.25-13.55.30:141][718]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.25-13.55.30:146][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-13.55.30:165][718]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.25-13.55.30:166][718]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.10.25-13.55.30:166][718]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.10.25-13.55.30:168][718]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.10.25-13.55.30:172][718]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.10.25-13.55.30:275][719]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2024.10.25-13.55.43:855][241]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.25-13.55.43:866][241]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.25-13.55.43:899][241]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TowerTest
+[2024.10.25-13.55.43:905][241]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006195s)
+[2024.10.25-13.55.43:905][241]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TowerTest.TowerTest to /Game/Levels/UEDPIE_0_TowerTest.TowerTest (0.006250s)
+[2024.10.25-13.55.43:925][241]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.10.25-13.55.43:926][241]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.10.25-13.55.43:926][241]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Levels/UEDPIE_0_TowerTest.TowerTest'.
+[2024.10.25-13.55.43:926][241]LogPlayLevel: PIE: World Init took: (0.001026s)
+[2024.10.25-13.55.43:927][241]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.10.25-13.55.43:927][241]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.25-13.55.43:927][241]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.25-13.55.43:927][241]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.25-13.55.43:927][241]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.25-13.55.43:927][241]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.25-13.55.43:927][241]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.25-13.55.43:927][241]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.25-13.55.43:927][241]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.25-13.55.43:927][241]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.25-13.55.43:927][241]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.25-13.55.43:927][241]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.25-13.55.43:929][241]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.25-13.55.43:956][241]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2024.10.25-13.55.43:956][241]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.25-13.55.43:956][241]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.25-13.55.43:956][241]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.25-13.55.43:957][241]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.10.25-13.55.43:957][241]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.10.25-13.55.43:958][241]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.10.25-13.55.43:958][241]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=9016
+[2024.10.25-13.55.43:958][241]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=9
+[2024.10.25-13.55.43:958][241]LogInit: FAudioDevice initialized with ID 9.
+[2024.10.25-13.55.43:958][241]LogAudio: Display: Audio Device (ID: 9) registered with world 'TowerTest'.
+[2024.10.25-13.55.43:958][241]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.10.25-13.55.43:961][241]LogLoad: Game class is 'GameMode'
+[2024.10.25-13.55.43:964][241]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TowerTest.TowerTest up for play (max tick rate 0) at 2024.10.25-14.55.43
+[2024.10.25-13.55.43:964][241]LogWorld: Bringing up level for play took: 0.002759
+[2024.10.25-13.55.43:967][241]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2024.10.25-13.55.43:967][241]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.25-13.55.43:967][241]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.25-13.55.43:967][241]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.10.25-13.55.43:969][241]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.10.25-13.55.43:970][241]PIE: Server logged in
+[2024.10.25-13.55.43:971][241]PIE: Play in editor total start time 0.105 seconds.
+[2024.10.25-13.55.48:284][757]LogBlueprintUserMessages: [BP_TestWBPspawner_C_1] board
+[2024.10.25-13.55.48:285][757]LogBlueprintUserMessages: [BP_TestWBPspawner_C_1] 1
+[2024.10.25-13.55.51:297][115]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.25-13.55.51:298][115]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TowerTest
+[2024.10.25-13.55.51:298][115]LogWorld: UWorld::CleanupWorld for TowerTest, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-13.55.51:298][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-13.55.51:298][115]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.10.25-13.55.51:298][115]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.10.25-13.55.51:303][115]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.25-13.55.51:308][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-13.55.51:329][115]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.25-13.55.51:329][115]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.10.25-13.55.51:329][115]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.10.25-13.55.51:331][115]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.10.25-13.55.51:335][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.10.25-13.55.51:434][116]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2024.10.25-13.56.00:715][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.10.25-13.56.04:274][387]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.10.25-13.56.04:279][387]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.25-13.56.04:379][387]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.10.25-13.56.04:390][387]LogPackageLocalizationCache: Processed 51 localized package path(s) for 1 prioritized culture(s) in 0.010453 seconds
+[2024.10.25-13.56.04:441][387]LogSavePackage: Moving output files for package: /Game/Levels/TowerTest
+[2024.10.25-13.56.04:442][387]LogSavePackage: Moving '../../../../../../Users/21391218/OneDrive - MMU/Documents/GitHub/TheBestTeam/VR/Saved/TowerTestE86B118A4A0197F3E7E82DBBDEEB57A5.tmp' to '../../../../../../Users/21391218/OneDrive - MMU/Documents/GitHub/TheBestTeam/VR/Content/Levels/TowerTest.umap'
+[2024.10.25-13.56.04:457][387]LogFileHelpers: Saving map 'TowerTest' took 0.139
+[2024.10.25-13.56.04:457][387]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Game/BP/BP_Bottle2] ([2] browsable assets)...
+[2024.10.25-13.56.04:472][387]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Game/BP/BP_Bottle2.BP_Bottle2]
+[2024.10.25-13.56.04:472][387]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game/BP/BP_Bottle2]
+[2024.10.25-13.56.04:472][387]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/BP/BP_Bottle2" FILE="../../../../../../Users/21391218/OneDrive - MMU/Documents/GitHub/TheBestTeam/VR/Content/Game/BP/BP_Bottle2.uasset" SILENT=true
+[2024.10.25-13.56.04:485][387]LogSavePackage: Moving output files for package: /Game/Game/BP/BP_Bottle2
+[2024.10.25-13.56.04:486][387]LogSavePackage: Moving '../../../../../../Users/21391218/OneDrive - MMU/Documents/GitHub/TheBestTeam/VR/Saved/BP_Bottle2F45D4AEC4F381226B2D5D8B0D6A1ED13.tmp' to '../../../../../../Users/21391218/OneDrive - MMU/Documents/GitHub/TheBestTeam/VR/Content/Game/BP/BP_Bottle2.uasset'
+[2024.10.25-13.56.04:496][387]LogFileHelpers: InternalPromptForCheckoutAndSave took 216.849 ms
+[2024.10.25-13.56.04:549][387]LogContentValidation: Display: Starting to validate 2 assets
+[2024.10.25-13.56.04:549][387]LogContentValidation: Enabled validators:
+[2024.10.25-13.56.04:549][387]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.25-13.56.04:549][387]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.25-13.56.04:549][387]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.25-13.56.04:549][387]LogContentValidation: Display: Validating asset /Game/Levels/TowerTest.TowerTest
+[2024.10.25-13.56.04:549][387]AssetCheck: /Game/Levels/TowerTest Validating asset
+[2024.10.25-13.56.04:549][387]LogContentValidation: Display: Validating asset /Game/Game/BP/BP_Bottle2.BP_Bottle2
+[2024.10.25-13.56.04:550][387]AssetCheck: /Game/Game/BP/BP_Bottle2 Validating asset
+[2024.10.25-13.56.04:935][429]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.25-13.56.04:946][429]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.25-13.56.04:975][429]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TowerTest
+[2024.10.25-13.56.04:981][429]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006082s)
+[2024.10.25-13.56.04:981][429]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TowerTest.TowerTest to /Game/Levels/UEDPIE_0_TowerTest.TowerTest (0.006133s)
+[2024.10.25-13.56.05:001][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.10.25-13.56.05:002][429]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.10.25-13.56.05:003][429]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Levels/UEDPIE_0_TowerTest.TowerTest'.
+[2024.10.25-13.56.05:003][429]LogPlayLevel: PIE: World Init took: (0.001012s)
+[2024.10.25-13.56.05:004][429]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.10.25-13.56.05:004][429]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.25-13.56.05:004][429]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.25-13.56.05:004][429]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.25-13.56.05:004][429]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.25-13.56.05:004][429]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.25-13.56.05:004][429]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.25-13.56.05:004][429]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.25-13.56.05:004][429]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.25-13.56.05:004][429]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.25-13.56.05:004][429]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.25-13.56.05:004][429]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.25-13.56.05:006][429]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.25-13.56.05:029][429]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2024.10.25-13.56.05:029][429]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.25-13.56.05:029][429]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.25-13.56.05:029][429]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.25-13.56.05:030][429]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.10.25-13.56.05:030][429]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.10.25-13.56.05:031][429]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.10.25-13.56.05:031][429]LogInit: FAudioDevice initialized with ID 10.
+[2024.10.25-13.56.05:031][429]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=15916
+[2024.10.25-13.56.05:031][429]LogAudio: Display: Audio Device (ID: 10) registered with world 'TowerTest'.
+[2024.10.25-13.56.05:031][429]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=10
+[2024.10.25-13.56.05:031][429]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.10.25-13.56.05:034][429]LogLoad: Game class is 'GameMode'
+[2024.10.25-13.56.05:037][429]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TowerTest.TowerTest up for play (max tick rate 0) at 2024.10.25-14.56.05
+[2024.10.25-13.56.05:037][429]LogWorld: Bringing up level for play took: 0.002866
+[2024.10.25-13.56.05:040][429]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2024.10.25-13.56.05:040][429]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.25-13.56.05:040][429]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.25-13.56.05:040][429]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.10.25-13.56.05:043][429]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.10.25-13.56.05:043][429]PIE: Server logged in
+[2024.10.25-13.56.05:045][429]PIE: Play in editor total start time 0.099 seconds.
+[2024.10.25-13.56.09:367][945]LogBlueprintUserMessages: [BP_TestWBPspawner_C_1] board
+[2024.10.25-13.56.09:368][945]LogBlueprintUserMessages: [BP_TestWBPspawner_C_1] 1
+[2024.10.25-13.56.23:528][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.25-13.56.23:528][639]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TowerTest
+[2024.10.25-13.56.23:529][639]LogWorld: UWorld::CleanupWorld for TowerTest, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-13.56.23:529][639]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-13.56.23:529][639]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.10.25-13.56.23:529][639]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.10.25-13.56.23:539][639]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.25-13.56.23:544][639]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-13.56.23:561][639]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.25-13.56.23:562][639]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.10.25-13.56.23:562][639]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.10.25-13.56.23:563][639]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.10.25-13.56.23:565][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.25-13.56.23:568][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.10.25-13.56.23:659][640]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2024.10.25-13.56.25:695][845]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.10.25-13.56.30:281][338]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
