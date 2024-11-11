@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\tyler nunes\\documents\\github\\thebestteam\\vr\\source\\vr\\vr.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\tyler nunes\\documents\\github\\thebestteam\\vr\\intermediate\\build\\win64\\x64\\vreditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\users\\tyler nunes\\documents\\github\\thebestteam\\vr\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\vr\\definitions.vr.h",
+            "c:\\users\\tyler nunes\\documents\\github\\thebestteam\\vr\\source\\vr\\vr.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
