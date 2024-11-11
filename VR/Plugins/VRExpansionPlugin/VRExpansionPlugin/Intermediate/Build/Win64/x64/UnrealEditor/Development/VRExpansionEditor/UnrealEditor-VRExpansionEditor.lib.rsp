@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-VRExpansionEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Tyler Nunes\Documents\GitHub\TheBestTeam\VR\Intermediate\Build\Win64\x64\VREditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
+"C:\Users\Tyler Nunes\Documents\GitHub\TheBestTeam\VR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\VRExpansionEditor\HandSocketComponentDetails.cpp.obj"
+"C:\Users\Tyler Nunes\Documents\GitHub\TheBestTeam\VR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\VRExpansionEditor\HandSocketVisualizer.cpp.obj"
+"C:\Users\Tyler Nunes\Documents\GitHub\TheBestTeam\VR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\VRExpansionEditor\VRExpansionEditor.cpp.obj"
+"C:\Users\Tyler Nunes\Documents\GitHub\TheBestTeam\VR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\VRExpansionEditor\VRGlobalSettingsDetails.cpp.obj"
+"C:\Users\Tyler Nunes\Documents\GitHub\TheBestTeam\VR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\VRExpansionEditor\Default.rc2.res"
+/OUT:"C:\Users\Tyler Nunes\Documents\GitHub\TheBestTeam\VR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\VRExpansionEditor\UnrealEditor-VRExpansionEditor.lib"

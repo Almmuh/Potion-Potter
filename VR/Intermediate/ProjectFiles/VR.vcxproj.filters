@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\VR.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\VR.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\VREditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\Mac">
+      <UniqueIdentifier>{C34A53DE-7A2E-391F-9292-A84444E41B18}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Mac\MacEngine.ini">
+      <Filter>Config\Mac</Filter>
+    </None>
+    <Filter Include="Source\VR">
+      <UniqueIdentifier>{7C6D0BE1-8E30-3876-8D40-E919FEC39172}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\VR\MyClass.cpp">
+      <Filter>Source\VR</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VR\MyClass.h">
+      <Filter>Source\VR</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\VR\VR.Build.cs">
+      <Filter>Source\VR</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\VR\VR.cpp">
+      <Filter>Source\VR</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VR\VR.h">
+      <Filter>Source\VR</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

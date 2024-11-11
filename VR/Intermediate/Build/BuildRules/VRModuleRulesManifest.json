@@ -1,0 +1,12 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Tyler Nunes\\Documents\\GitHub\\TheBestTeam\\VR\\Source\\VR\\VR.Build.cs",
+		"C:\\Users\\Tyler Nunes\\Documents\\GitHub\\TheBestTeam\\VR\\Plugins\\VRExpansionPlugin\\OpenXRExpansionPlugin\\Source\\OpenXRExpansionEditor\\OpenXRExpansionEditor.Build.cs",
+		"C:\\Users\\Tyler Nunes\\Documents\\GitHub\\TheBestTeam\\VR\\Plugins\\VRExpansionPlugin\\OpenXRExpansionPlugin\\Source\\OpenXRExpansionPlugin\\OpenXRExpansionPlugin.Build.cs",
+		"C:\\Users\\Tyler Nunes\\Documents\\GitHub\\TheBestTeam\\VR\\Plugins\\VRExpansionPlugin\\VRExpansionPlugin\\Source\\VRExpansionEditor\\VRExpansionEditor.Build.cs",
+		"C:\\Users\\Tyler Nunes\\Documents\\GitHub\\TheBestTeam\\VR\\Plugins\\VRExpansionPlugin\\VRExpansionPlugin\\Source\\VRExpansionPlugin\\VRExpansionPlugin.Build.cs",
+		"C:\\Users\\Tyler Nunes\\Documents\\GitHub\\TheBestTeam\\VR\\Source\\VR.Target.cs",
+		"C:\\Users\\Tyler Nunes\\Documents\\GitHub\\TheBestTeam\\VR\\Source\\VREditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}

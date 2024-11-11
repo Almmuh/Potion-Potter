@@ -1,0 +1,36 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\tyler nunes\\documents\\github\\thebestteam\\vr\\plugins\\vrexpansionplugin\\vrexpansionplugin\\source\\vrexpansionplugin\\private\\gripscripts\\gs_default.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\tyler nunes\\documents\\github\\thebestteam\\vr\\intermediate\\build\\win64\\x64\\vreditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\users\\tyler nunes\\documents\\github\\thebestteam\\vr\\plugins\\vrexpansionplugin\\vrexpansionplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\vrexpansionplugin\\definitions.vrexpansionplugin.h",
+            "c:\\users\\tyler nunes\\documents\\github\\thebestteam\\vr\\plugins\\vrexpansionplugin\\vrexpansionplugin\\source\\vrexpansionplugin\\public\\gripscripts\\gs_default.h",
+            "c:\\users\\tyler nunes\\documents\\github\\thebestteam\\vr\\plugins\\vrexpansionplugin\\vrexpansionplugin\\source\\vrexpansionplugin\\public\\gripscripts\\vrgripscriptbase.h",
+            "c:\\users\\tyler nunes\\documents\\github\\thebestteam\\vr\\plugins\\vrexpansionplugin\\vrexpansionplugin\\source\\vrexpansionplugin\\public\\vrbpdatatypes.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\physicsengine\\constraintdrives.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\constraintdrives.generated.h",
+            "c:\\users\\tyler nunes\\documents\\github\\thebestteam\\vr\\plugins\\vrexpansionplugin\\vrexpansionplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\vrexpansionplugin\\uht\\vrbpdatatypes.generated.h",
+            "c:\\users\\tyler nunes\\documents\\github\\thebestteam\\vr\\plugins\\vrexpansionplugin\\vrexpansionplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\vrexpansionplugin\\uht\\vrgripscriptbase.generated.h",
+            "c:\\users\\tyler nunes\\documents\\github\\thebestteam\\vr\\plugins\\vrexpansionplugin\\vrexpansionplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\vrexpansionplugin\\uht\\gs_default.generated.h",
+            "c:\\users\\tyler nunes\\documents\\github\\thebestteam\\vr\\plugins\\vrexpansionplugin\\vrexpansionplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\vrexpansionplugin\\uht\\gs_default.gen.cpp",
+            "c:\\users\\tyler nunes\\documents\\github\\thebestteam\\vr\\plugins\\vrexpansionplugin\\vrexpansionplugin\\source\\vrexpansionplugin\\public\\vrgripinterface.h",
+            "c:\\users\\tyler nunes\\documents\\github\\thebestteam\\vr\\plugins\\vrexpansionplugin\\vrexpansionplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\vrexpansionplugin\\uht\\vrgripinterface.generated.h",
+            "c:\\users\\tyler nunes\\documents\\github\\thebestteam\\vr\\plugins\\vrexpansionplugin\\vrexpansionplugin\\source\\vrexpansionplugin\\public\\gripmotioncontrollercomponent.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\public\\sceneviewextension.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\public\\sceneviewextensioncontext.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\sceneviewextensioncontext.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\public\\scenetexturesconfig.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\rendercore\\public\\gbufferinfo.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\headmounteddisplay\\public\\motioncontrollercomponent.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\headmounteddisplay\\public\\imotioncontroller.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\headmounteddisplay\\uht\\imotioncontroller.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\headmounteddisplay\\public\\lateupdatemanager.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\headmounteddisplay\\uht\\motioncontrollercomponent.generated.h",
+            "c:\\users\\tyler nunes\\documents\\github\\thebestteam\\vr\\plugins\\vrexpansionplugin\\vrexpansionplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\vrexpansionplugin\\uht\\gripmotioncontrollercomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

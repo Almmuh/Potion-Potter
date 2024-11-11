@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-VR.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Tyler Nunes\Documents\GitHub\TheBestTeam\VR\Intermediate\Build\Win64\x64\VREditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
+"C:\Users\Tyler Nunes\Documents\GitHub\TheBestTeam\VR\Intermediate\Build\Win64\x64\UnrealEditor\Development\VR\MyClass.cpp.obj"
+"C:\Users\Tyler Nunes\Documents\GitHub\TheBestTeam\VR\Intermediate\Build\Win64\x64\UnrealEditor\Development\VR\VR.cpp.obj"
+"C:\Users\Tyler Nunes\Documents\GitHub\TheBestTeam\VR\Intermediate\Build\Win64\x64\UnrealEditor\Development\VR\Default.rc2.res"
+/OUT:"C:\Users\Tyler Nunes\Documents\GitHub\TheBestTeam\VR\Intermediate\Build\Win64\x64\UnrealEditor\Development\VR\UnrealEditor-VR.lib"

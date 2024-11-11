@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\tyler nunes\\documents\\github\\thebestteam\\vr\\plugins\\vrexpansionplugin\\vrexpansionplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\vrexpansionplugin\\uht\\vrvehiclepawn.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\tyler nunes\\documents\\github\\thebestteam\\vr\\intermediate\\build\\win64\\x64\\vreditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\users\\tyler nunes\\documents\\github\\thebestteam\\vr\\plugins\\vrexpansionplugin\\vrexpansionplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\vrexpansionplugin\\definitions.vrexpansionplugin.h",
+            "c:\\users\\tyler nunes\\documents\\github\\thebestteam\\vr\\plugins\\vrexpansionplugin\\vrexpansionplugin\\source\\vrexpansionplugin\\public\\misc\\vrvehiclepawn.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\inputdelegatebinding.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\dynamicblueprintbinding.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\dynamicblueprintbinding.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\inputdelegatebinding.generated.h",
+            "c:\\users\\tyler nunes\\documents\\github\\thebestteam\\vr\\plugins\\vrexpansionplugin\\vrexpansionplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\vrexpansionplugin\\uht\\vrvehiclepawn.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
