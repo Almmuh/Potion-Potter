@@ -39,6 +39,21 @@
 				"Android",
 				"VisionOS"
 			]
+		},
+		{
+			"Name": "OpenXRExpansionPlugin",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Linux",
+				"Android",
+				"Mac",
+				"IOS"
+			]
+		},
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
