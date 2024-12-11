@@ -29,7 +29,7 @@
 		<DeploymentName />
 		<EngineVersion>5.4.4-35576357+++UE5+Release-5.4</EngineVersion>
 		<EngineCompatibleVersion>5.4.4-35576357+++UE5+Release-5.4</EngineCompatibleVersion>
-		<CommandLine>&quot;C:\Users\Tyler Nunes\Documents\GitHub\TheBestTeam\VR\VR.uproject&quot;</CommandLine>
+		<CommandLine>CommandLineRemoved</CommandLine>
 		<LanguageLCID>0</LanguageLCID>
 		<AppDefaultLocale>en-GB</AppDefaultLocale>
 		<BuildVersion>++UE5+Release-5.4-CL-35576357</BuildVersion>
