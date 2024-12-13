@@ -1,2 +1,2 @@
 Potion Potter
-Requires authorization from one of the developers for anything that was taken from the file
+Requires authorization to be granted from one of the developers of the repository for taking anything from the repository
